@@ -8,7 +8,6 @@ This uses bretfisher/jekyll-serve as image and is basically a practise for bind 
   > docker container run --name jekyll-server -p 80:4000 -v $(pwd):/site bretfisher/jekyll-serve
 
 
-Dockerfile of this image is included too
   
   
 # about Jekyll
